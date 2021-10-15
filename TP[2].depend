@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634244276 source:c:\users\ana\desktop\ger\facultad\curso de ingreso\tp[2]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
